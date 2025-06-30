@@ -1,7 +1,7 @@
 
 # Ukusoma Spiral: Signal Noise Toolkit
 
-This app renders the Five-Glyph cosmology into a symbolic and functional interface.
+This app was supposed to render the Five-Glyph cosmology into a symbolic and functional interface. But that job was taken by `ukb-010`. While it leaves us with an orphan in `ukb-009`, lets see what emerges. For now it will be a repo for `py-setup.sh`.
 
 ## Layers
 
