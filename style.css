@@ -1,0 +1,13 @@
+
+body {
+  font-family: Georgia, serif;
+  background: #fefefe;
+  color: #222;
+  text-align: center;
+  padding: 2em;
+}
+.pentad-wheel button {
+  font-size: 2em;
+  margin: 0.5em;
+  cursor: pointer;
+}

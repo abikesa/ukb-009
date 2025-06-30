@@ -1,0 +1,13 @@
+
+app_name: Ukusoma Spiral
+version: 1.0
+routes:
+  - path: /simulate
+    method: GET
+    description: Simulate donor-recipient match
+glyphs:
+  - 🌊: Dopamine
+  - ❤️: Rules
+  - 🔁: Game
+  - 🐬: Equilibrium
+  - 📡: Illusion

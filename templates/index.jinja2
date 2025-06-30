@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+<head><title>Ukusoma Match</title></head>
+<body>
+  <h2>Match Simulation</h2>
+  {% if match %}
+    {% if match.valid %}
+      <p>✅ Match: {{ match.donor }} → {{ match.recipient }}</p>
+    {% else %}
+      <p>❌ Rejected match (fairness: {{ match.fairness_score }})</p>
+    {% endif %}
+  {% else %}
+    <p>No match data</p>
+  {% endif %}
+</body>
+</html>
